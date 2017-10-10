@@ -14,8 +14,6 @@ __[HA8.py](https://github.com/Maximilian-Fuchs/Python-Language-Processing/blob/m
 
 __[HA9.py](https://github.com/Maximilian-Fuchs/Python-Language-Processing/blob/master/HA9.py)__ a bayesian classifier to annotate words with POS-tags and ranks the features by informativeness
 
-__[HA9.py](https://github.com/Maximilian-Fuchs/Python-Language-Processing/blob/master/HA9.py)__
-
 __[HW3.py](https://github.com/Maximilian-Fuchs/Python-Language-Processing/blob/master/HW3.py)__ finds the most improbable phrases in a text by using log-likelyhood
 
 
